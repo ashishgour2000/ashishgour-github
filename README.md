@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Ashish Gour, an undergraduate student in CSE at IIT Kharagpur. 
-- 👀 I’m interested in software development, algorithms, data structures and Machine Learning.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ Intresting in projects on software development.
+- 👋 Hi, I’m Ashish Gour, an fourth year undergraduate student in CSE at IIT Kharagpur.
+- 💞️ Intresting in software development and machine learning.
 - 📫 Reach me: gourashish666@gmail.com 
